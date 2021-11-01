@@ -1,13 +1,4 @@
 
-	.mediaViewInfo {
-		--web-view-name: Web 1920 – 3;
-		--web-view-id: Web_1920__3;
-		--web-scale-on-resize: true;
-		--web-enable-deep-linking: true;
-	}
-	:root {
-		--web-view-ids: Web_1920__3;
-	}
 	* {
 		margin: 0;
 		padding: 0;
@@ -20,21 +11,8 @@
 		height: 1425px;
 		background: linear-gradient(151.8deg, rgba(49,49,50,1) 0%, rgba(22,22,24,1) 100%);
 		overflow: hidden;
-		--web-view-name: Web 1920 – 3;
-		--web-view-id: Web_1920__3;
-		--web-scale-on-resize: true;
-		--web-enable-deep-linking: true;
 	}
-	@keyframes fadein {
-	
-		0% {
-			opacity: 0;
-		}
-		100% {
-			opacity: 1;
-		}
-	
-	}
+
 	#art-hand-printing-paint-color- {
 		position: absolute;
 		width: 298.007px;
@@ -42,9 +20,6 @@
 		left: -20.141px;
 		top: -14.003px;
 		overflow: visible;
-		--web-animation: fadein 0.3s ease-out;
-		--web-action-type: page;
-		--web-action-target: Web_1920___1.html;
 		cursor: pointer;
 	}
 	#Rectangle_1 {
@@ -87,9 +62,6 @@
 		overflow: visible;
 		width: 155px;
 		height: 40px;
-		--web-animation: fadein 0.3s ease-out;
-		--web-action-type: page;
-		--web-action-target: Web_1920___1.html;
 		cursor: pointer;
 		text-align: left;
 		font-family: Rockwell;
