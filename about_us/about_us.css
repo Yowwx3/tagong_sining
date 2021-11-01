@@ -102,6 +102,7 @@
 		font-size: 30px;
 		color: rgba(252,252,252,1);
 	}
+	
 	#Submit {
 		left: 1704px;
 		top: 89px;
@@ -109,9 +110,21 @@
 		overflow: visible;
 		width: 107px;
 		height: 40px;
-		--web-animation: fadein 0.3s ease-out;
-		--web-action-type: page;
-		--web-action-target: Web_1920___2.html;
+		cursor: pointer;
+		text-align: left;
+		font-family: Rockwell;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(252,252,252,1);
+	}
+	#next {
+		left: 1704px;
+		top: 10px;
+		position: absolute;
+		overflow: visible;
+		width: 107px;
+		height: 40px;
 		cursor: pointer;
 		text-align: left;
 		font-family: Rockwell;
@@ -188,6 +201,7 @@
 		font-size: 70px;
 		color: rgba(252,252,252,1);
 	}
+	
 	#Group_2 {
 		position: absolute;
 		width: 1920px;

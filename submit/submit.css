@@ -12,16 +12,6 @@
 	background: linear-gradient(151.8deg, rgba(49,49,50,1) 0%, rgba(22,22,24,1) 100%);
 	overflow: hidden;
 }
-@keyframes fadein {
-
-	0% {
-		opacity: 0;
-	}
-	100% {
-		opacity: 1;
-	}
-
-}
 #art-hand-printing-paint-color- {
 	position: absolute;
 	width: 298.007px;
@@ -105,9 +95,6 @@
 	overflow: visible;
 	width: 136px;
 	height: 35px;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: Web_1920___3.html;
 	cursor: pointer;
 	text-align: left;
 	font-family: Rockwell;
@@ -185,160 +172,6 @@
 	left: 232px;
 	top: 0px;
 }
-#Group_2 {
-	position: absolute;
-	width: 1920px;
-	height: 1188px;
-	left: 0px;
-	top: 195px;
-	overflow: visible;
-}
-#Rectangle_3 {
-	opacity: 0.4;
-	fill: rgba(0,0,0,1);
-	stroke: rgba(112,112,112,1);
-	stroke-width: 1px;
-	stroke-linejoin: miter;
-	stroke-linecap: butt;
-	stroke-miterlimit: 4;
-	shape-rendering: auto;
-}
-.Rectangle_3 {
-	position: absolute;
-	overflow: visible;
-	width: 1920px;
-	height: 355px;
-	left: 0px;
-	top: 833px;
-}
-#art-hand-printing-paint-color-_ {
-	position: absolute;
-	width: 177.459px;
-	height: 177.459px;
-	left: 871.159px;
-	top: 832.548px;
-	overflow: visible;
-}
-#Icon_awesome-instagram {
-	fill: rgba(255,255,255,1);
-}
-.Icon_awesome-instagram {
-	overflow: visible;
-	position: absolute;
-	width: 51.402px;
-	height: 52.092px;
-	left: 806.799px;
-	top: 1041.254px;
-	transform: matrix(1,0,0,1,0,0);
-}
-#Icon_awesome-twitter {
-	fill: rgba(255,255,255,1);
-}
-.Icon_awesome-twitter {
-	overflow: visible;
-	position: absolute;
-	width: 50.468px;
-	height: 46.033px;
-	left: 931.532px;
-	top: 1041.254px;
-	transform: matrix(1,0,0,1,0,0);
-}
-#Icon_awesome-facebook {
-	fill: rgba(255,255,255,1);
-}
-.Icon_awesome-facebook {
-	overflow: visible;
-	position: absolute;
-	width: 59.213px;
-	height: 52.092px;
-	left: 1035.894px;
-	top: 1038.224px;
-	transform: matrix(1,0,0,1,0,0);
-}
-#About_us_ {
-	left: 762px;
-	top: 997px;
-	position: absolute;
-	overflow: visible;
-	width: 90px;
-	height: 27px;
-	text-align: left;
-	font-family: Segoe UI;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 20px;
-	color: rgba(252,252,252,1);
-}
-#FAQ {
-	left: 938px;
-	top: 997px;
-	position: absolute;
-	overflow: visible;
-	width: 45px;
-	height: 27px;
-	text-align: left;
-	font-family: Segoe UI;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 20px;
-	color: rgba(252,252,252,1);
-}
-#Contact_us_ {
-	left: 1071px;
-	top: 997px;
-	position: absolute;
-	overflow: visible;
-	width: 104px;
-	height: 27px;
-	text-align: left;
-	font-family: Segoe UI;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 20px;
-	color: rgba(252,252,252,1);
-}
-#Tagong_Sining_All_rights_reser {
-	left: 838px;
-	top: 1116px;
-	position: absolute;
-	overflow: visible;
-	width: 228px;
-	height: 20px;
-	text-align: left;
-	font-family: Segoe UI;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 15px;
-	color: rgba(252,252,252,1);
-}
-#Contact_Form {
-	left: 303px;
-	top: 0px;
-	position: absolute;
-	overflow: visible;
-	width: 472px;
-	height: 58px;
-	text-align: left;
-	font-family: Rockwell;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 50px;
-	color: rgba(252,252,252,1);
-}
-#Name {
-	left: 346px;
-	top: 118px;
-	position: absolute;
-	overflow: visible;
-	width: 64px;
-	height: 24px;
-	text-align: left;
-	font-family: Rockwell;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 20px;
-	color: rgba(252,252,252,1);
-}
 #Rectangle_4 {
 	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
@@ -395,10 +228,10 @@
 	width: 1920px;
 	height: 355.452px;
 	left: 0px;
-	top: 1027.548px;
+	top: 1069.548px;
 	overflow: visible;
 }
-#Rectangle_3_be {
+#Rectangle_3 {
 	opacity: 0.4;
 	fill: rgba(0,0,0,1);
 	stroke: rgba(112,112,112,1);
@@ -408,7 +241,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Rectangle_3_be {
+.Rectangle_3 {
 	position: absolute;
 	overflow: visible;
 	width: 1920px;
@@ -416,7 +249,7 @@
 	left: 0px;
 	top: 0.452px;
 }
-#art-hand-printing-paint-color-_bf {
+#art-hand-printing-paint-color-_ {
 	position: absolute;
 	width: 177.459px;
 	height: 177.459px;
@@ -424,10 +257,10 @@
 	top: 0px;
 	overflow: visible;
 }
-#Icon_awesome-instagram_bg {
+#Icon_awesome-instagram {
 	fill: rgba(255,255,255,1);
 }
-.Icon_awesome-instagram_bg {
+.Icon_awesome-instagram {
 	overflow: visible;
 	position: absolute;
 	width: 51.402px;
@@ -436,10 +269,10 @@
 	top: 208.706px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Icon_awesome-twitter_bh {
+#Icon_awesome-twitter {
 	fill: rgba(255,255,255,1);
 }
-.Icon_awesome-twitter_bh {
+.Icon_awesome-twitter {
 	overflow: visible;
 	position: absolute;
 	width: 50.468px;
@@ -448,10 +281,10 @@
 	top: 208.706px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Icon_awesome-facebook_bi {
+#Icon_awesome-facebook {
 	fill: rgba(255,255,255,1);
 }
-.Icon_awesome-facebook_bi {
+.Icon_awesome-facebook {
 	overflow: visible;
 	position: absolute;
 	width: 59.213px;
@@ -460,7 +293,7 @@
 	top: 205.676px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#About_us__bj {
+#About_us_ {
 	left: 762px;
 	top: 164.452px;
 	position: absolute;
@@ -474,7 +307,7 @@
 	font-size: 20px;
 	color: rgba(252,252,252,1);
 }
-#FAQ_bk {
+#FAQ {
 	left: 938px;
 	top: 164.452px;
 	position: absolute;
@@ -488,7 +321,7 @@
 	font-size: 20px;
 	color: rgba(252,252,252,1);
 }
-#Contact_us__bl {
+#Contact_us_ {
 	left: 1071px;
 	top: 164.452px;
 	position: absolute;
@@ -502,7 +335,7 @@
 	font-size: 20px;
 	color: rgba(252,252,252,1);
 }
-#Tagong_Sining_All_rights_reser_bm {
+#Tagong_Sining_All_rights_reser {
 	left: 838px;
 	top: 283.452px;
 	position: absolute;
@@ -516,7 +349,7 @@
 	font-size: 15px;
 	color: rgba(252,252,252,1);
 }
-#Contact_Form_bn {
+#Contact_Form {
 	left: 303px;
 	top: 195px;
 	position: absolute;
@@ -530,7 +363,7 @@
 	font-size: 50px;
 	color: rgba(252,252,252,1);
 }
-#Name_bo {
+#Name {
 	left: 346px;
 	top: 313px;
 	position: absolute;
@@ -684,7 +517,7 @@
 	left: 346px;
 	top: 654px;
 }
-#Choose_file__by {
+#Choose_file__bn {
 	opacity: 0.8;
 	left: 368px;
 	top: 661px;
@@ -851,18 +684,18 @@
 	overflow: visible;
 }
 #Collection {
-    left: 1275px;
-    top: 87px;
-    position: absolute;
-    overflow: visible;
-    width: 150px;
-    height: 40px;
-    text-align: left;
-    font-family: Rockwell;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 30px;
-    color: rgba(252,252,252,1);
+	left: 1275px;
+	top: 87px;
+	position: absolute;
+	overflow: visible;
+	width: 151px;
+	height: 35px;
+	text-align: left;
+	font-family: Rockwell;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(252,252,252,1);
 }a{
     color: white;
     text-decoration: none;
