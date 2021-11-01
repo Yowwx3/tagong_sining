@@ -1,0 +1,869 @@
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920__2 {
+	position: absolute;
+	width: 1920px;
+	height: 1425px;
+	background: linear-gradient(151.8deg, rgba(49,49,50,1) 0%, rgba(22,22,24,1) 100%);
+	overflow: hidden;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#art-hand-printing-paint-color- {
+	position: absolute;
+	width: 298.007px;
+	height: 298.007px;
+	left: -20.141px;
+	top: -14.003px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___1.html;
+	cursor: pointer;
+}
+#Rectangle_1 {
+	opacity: 0.22;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 772px;
+	height: 48px;
+	left: 416px;
+	top: 87px;
+}
+#Icon_open-magnifying-glass {
+	opacity: 0.57;
+	fill: rgba(0,0,0,1);
+}
+.Icon_open-magnifying-glass {
+	overflow: visible;
+	position: absolute;
+	width: 37.945px;
+	height: 36.633px;
+	left: 1133.055px;
+	top: 92.683px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Search {
+	opacity: 0.57;
+	left: 763px;
+	top: 91px;
+	position: absolute;
+	overflow: visible;
+	width: 144px;
+	height: 35px;
+	text-align: left;
+	font-family: Rockwell;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(252,252,252,1);
+}
+#Line_1 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 152px;
+	height: 1px;
+	left: 1273.5px;
+	top: 129.317px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#About_us {
+	left: 1490px;
+	top: 89px;
+	position: absolute;
+	overflow: visible;
+	width: 136px;
+	height: 35px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___3.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Rockwell;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(252,252,252,1);
+}
+#Submit {
+    left: 1704px;
+    top: 89px;
+    position: absolute;
+    overflow: visible;
+    width: 100px;
+    height: 40px;
+    cursor: pointer;
+    text-align: left;
+    font-family: Rockwell;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(252,252,252,1);
+}
+#Line_2 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_2 {
+	overflow: visible;
+	position: absolute;
+	width: 152px;
+	height: 1px;
+	left: 1478.5px;
+	top: 129.317px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_3 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_3 {
+	overflow: visible;
+	position: absolute;
+	width: 152px;
+	height: 1px;
+	left: 1677px;
+	top: 129px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_2 {
+	opacity: 0.45;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 1070px;
+	left: 232px;
+	top: 0px;
+}
+#Group_2 {
+	position: absolute;
+	width: 1920px;
+	height: 1188px;
+	left: 0px;
+	top: 195px;
+	overflow: visible;
+}
+#Rectangle_3 {
+	opacity: 0.4;
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 355px;
+	left: 0px;
+	top: 833px;
+}
+#art-hand-printing-paint-color-_ {
+	position: absolute;
+	width: 177.459px;
+	height: 177.459px;
+	left: 871.159px;
+	top: 832.548px;
+	overflow: visible;
+}
+#Icon_awesome-instagram {
+	fill: rgba(255,255,255,1);
+}
+.Icon_awesome-instagram {
+	overflow: visible;
+	position: absolute;
+	width: 51.402px;
+	height: 52.092px;
+	left: 806.799px;
+	top: 1041.254px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_awesome-twitter {
+	fill: rgba(255,255,255,1);
+}
+.Icon_awesome-twitter {
+	overflow: visible;
+	position: absolute;
+	width: 50.468px;
+	height: 46.033px;
+	left: 931.532px;
+	top: 1041.254px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_awesome-facebook {
+	fill: rgba(255,255,255,1);
+}
+.Icon_awesome-facebook {
+	overflow: visible;
+	position: absolute;
+	width: 59.213px;
+	height: 52.092px;
+	left: 1035.894px;
+	top: 1038.224px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#About_us_ {
+	left: 762px;
+	top: 997px;
+	position: absolute;
+	overflow: visible;
+	width: 90px;
+	height: 27px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(252,252,252,1);
+}
+#FAQ {
+	left: 938px;
+	top: 997px;
+	position: absolute;
+	overflow: visible;
+	width: 45px;
+	height: 27px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(252,252,252,1);
+}
+#Contact_us_ {
+	left: 1071px;
+	top: 997px;
+	position: absolute;
+	overflow: visible;
+	width: 104px;
+	height: 27px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(252,252,252,1);
+}
+#Tagong_Sining_All_rights_reser {
+	left: 838px;
+	top: 1116px;
+	position: absolute;
+	overflow: visible;
+	width: 228px;
+	height: 20px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(252,252,252,1);
+}
+#Contact_Form {
+	left: 303px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 472px;
+	height: 58px;
+	text-align: left;
+	font-family: Rockwell;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(252,252,252,1);
+}
+#Name {
+	left: 346px;
+	top: 118px;
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	height: 24px;
+	text-align: left;
+	font-family: Rockwell;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(252,252,252,1);
+}
+#Rectangle_4 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 261px;
+	height: 32px;
+	left: 347px;
+	top: 340px;
+}
+#Rectangle_5 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 323px;
+	height: 32px;
+	left: 625px;
+	top: 340px;
+}
+#Rectangle_6 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_6 {
+	position: absolute;
+	overflow: visible;
+	width: 522px;
+	height: 32px;
+	left: 346px;
+	top: 422px;
+}
+#Group_3 {
+	position: absolute;
+	width: 1920px;
+	height: 355.452px;
+	left: 0px;
+	top: 1027.548px;
+	overflow: visible;
+}
+#Rectangle_3_be {
+	opacity: 0.4;
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_3_be {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 355px;
+	left: 0px;
+	top: 0.452px;
+}
+#art-hand-printing-paint-color-_bf {
+	position: absolute;
+	width: 177.459px;
+	height: 177.459px;
+	left: 871.159px;
+	top: 0px;
+	overflow: visible;
+}
+#Icon_awesome-instagram_bg {
+	fill: rgba(255,255,255,1);
+}
+.Icon_awesome-instagram_bg {
+	overflow: visible;
+	position: absolute;
+	width: 51.402px;
+	height: 52.092px;
+	left: 806.799px;
+	top: 208.706px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_awesome-twitter_bh {
+	fill: rgba(255,255,255,1);
+}
+.Icon_awesome-twitter_bh {
+	overflow: visible;
+	position: absolute;
+	width: 50.468px;
+	height: 46.033px;
+	left: 931.532px;
+	top: 208.706px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_awesome-facebook_bi {
+	fill: rgba(255,255,255,1);
+}
+.Icon_awesome-facebook_bi {
+	overflow: visible;
+	position: absolute;
+	width: 59.213px;
+	height: 52.092px;
+	left: 1035.894px;
+	top: 205.676px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#About_us__bj {
+	left: 762px;
+	top: 164.452px;
+	position: absolute;
+	overflow: visible;
+	width: 90px;
+	height: 27px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(252,252,252,1);
+}
+#FAQ_bk {
+	left: 938px;
+	top: 164.452px;
+	position: absolute;
+	overflow: visible;
+	width: 45px;
+	height: 27px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(252,252,252,1);
+}
+#Contact_us__bl {
+	left: 1071px;
+	top: 164.452px;
+	position: absolute;
+	overflow: visible;
+	width: 104px;
+	height: 27px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(252,252,252,1);
+}
+#Tagong_Sining_All_rights_reser_bm {
+	left: 838px;
+	top: 283.452px;
+	position: absolute;
+	overflow: visible;
+	width: 228px;
+	height: 20px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(252,252,252,1);
+}
+#Contact_Form_bn {
+	left: 303px;
+	top: 195px;
+	position: absolute;
+	overflow: visible;
+	width: 472px;
+	height: 58px;
+	text-align: left;
+	font-family: Rockwell;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(252,252,252,1);
+}
+#Name_bo {
+	left: 346px;
+	top: 313px;
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	height: 24px;
+	text-align: left;
+	font-family: Rockwell;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(252,252,252,1);
+}
+#Phone_ {
+	left: 347px;
+	top: 391px;
+	position: absolute;
+	overflow: hidden;
+	width: 64px;
+	height: 28px;
+	text-align: left;
+	font-family: Rockwell;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(252,252,252,1);
+}
+#Pen_Name_ {
+	left: 347px;
+	top: 473px;
+	position: absolute;
+	overflow: hidden;
+	width: 100px;
+	height: 26px;
+	text-align: left;
+	font-family: Rockwell;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(252,252,252,1);
+}
+#Rectangle_7 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_7 {
+	position: absolute;
+	overflow: visible;
+	width: 522px;
+	height: 32px;
+	left: 346px;
+	top: 502px;
+}
+#Photo_of_Art_ {
+	left: 346px;
+	top: 553px;
+	position: absolute;
+	overflow: hidden;
+	width: 119px;
+	height: 26px;
+	text-align: left;
+	font-family: Rockwell;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(252,252,252,1);
+}
+#Rectangle_8 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_8 {
+	position: absolute;
+	overflow: visible;
+	width: 522px;
+	height: 32px;
+	left: 346px;
+	top: 582px;
+}
+#Rectangle_9 {
+	opacity: 0.5;
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_9 {
+	position: absolute;
+	overflow: visible;
+	width: 106px;
+	height: 22px;
+	left: 358px;
+	top: 587px;
+}
+#Choose_file_ {
+	opacity: 0.8;
+	left: 370px;
+	top: 588px;
+	position: absolute;
+	overflow: hidden;
+	width: 81px;
+	height: 18px;
+	text-align: left;
+	font-family: Rockwell;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#Photo_of_Signature_ {
+	left: 346px;
+	top: 625px;
+	position: absolute;
+	overflow: hidden;
+	width: 170px;
+	height: 26px;
+	text-align: left;
+	font-family: Rockwell;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(252,252,252,1);
+}
+#Rectangle_10 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_10 {
+	position: absolute;
+	overflow: visible;
+	width: 522px;
+	height: 32px;
+	left: 346px;
+	top: 654px;
+}
+#Choose_file__by {
+	opacity: 0.8;
+	left: 368px;
+	top: 661px;
+	position: absolute;
+	overflow: hidden;
+	width: 81px;
+	height: 18px;
+	text-align: left;
+	font-family: Rockwell;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#Rectangle_11 {
+	opacity: 0.5;
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_11 {
+	position: absolute;
+	overflow: visible;
+	width: 106px;
+	height: 22px;
+	left: 360px;
+	top: 659px;
+}
+#CommentDescription_ {
+	left: 346px;
+	top: 698px;
+	position: absolute;
+	overflow: hidden;
+	width: 216px;
+	height: 26px;
+	text-align: left;
+	font-family: Rockwell;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(252,252,252,1);
+}
+#Rectangle_12 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_12 {
+	position: absolute;
+	overflow: visible;
+	width: 522px;
+	height: 181px;
+	left: 346px;
+	top: 727px;
+}
+#First_ {
+	opacity: 0.6;
+	left: 358px;
+	top: 347px;
+	position: absolute;
+	overflow: hidden;
+	width: 81px;
+	height: 18px;
+	text-align: left;
+	font-family: Rockwell;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#Last_ {
+	opacity: 0.6;
+	left: 637px;
+	top: 347px;
+	position: absolute;
+	overflow: hidden;
+	width: 81px;
+	height: 18px;
+	text-align: left;
+	font-family: Rockwell;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#Rectangle_13 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_13 {
+	position: absolute;
+	overflow: visible;
+	width: 99px;
+	height: 25px;
+	left: 347px;
+	top: 919px;
+}
+#SUBMIT_ {
+	opacity: 0.93;
+	left: 369px;
+	top: 923px;
+	position: absolute;
+	overflow: hidden;
+	width: 56px;
+	height: 18px;
+	text-align: left;
+	font-family: Rockwell;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#photo_2021-10-21_19-39-54 {
+	position: absolute;
+	width: 640px;
+	height: 640px;
+	left: 1131px;
+	top: 253px;
+	overflow: visible;
+}
+#photo_2021-10-21_19-43-27 {
+	position: absolute;
+	width: 354px;
+	height: 199px;
+	left: 1540px;
+	top: 195px;
+	overflow: visible;
+}
+#photo_2021-10-21_19-40-18 {
+	position: absolute;
+	width: 293px;
+	height: 220px;
+	left: 1540px;
+	top: 756px;
+	overflow: visible;
+}
+#photo_2021-09-01_01-08-36_3 {
+	position: absolute;
+	width: 373px;
+	height: 210px;
+	left: 1002px;
+	top: 713px;
+	overflow: visible;
+}
+#photo_2021-10-21_19-43-19 {
+	position: absolute;
+	width: 170px;
+	height: 303px;
+	left: 1050px;
+	top: 183px;
+	overflow: visible;
+}
+#Collection {
+    left: 1275px;
+    top: 87px;
+    position: absolute;
+    overflow: visible;
+    width: 150px;
+    height: 40px;
+    text-align: left;
+    font-family: Rockwell;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(252,252,252,1);
+}a{
+    color: white;
+    text-decoration: none;
+}

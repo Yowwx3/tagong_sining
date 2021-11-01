@@ -1,0 +1,376 @@
+
+	.mediaViewInfo {
+		--web-view-name: Web 1920 – 3;
+		--web-view-id: Web_1920__3;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	:root {
+		--web-view-ids: Web_1920__3;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#Web_1920__3 {
+		position: absolute;
+		width: 1920px;
+		height: 1425px;
+		background: linear-gradient(151.8deg, rgba(49,49,50,1) 0%, rgba(22,22,24,1) 100%);
+		overflow: hidden;
+		--web-view-name: Web 1920 – 3;
+		--web-view-id: Web_1920__3;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	@keyframes fadein {
+	
+		0% {
+			opacity: 0;
+		}
+		100% {
+			opacity: 1;
+		}
+	
+	}
+	#art-hand-printing-paint-color- {
+		position: absolute;
+		width: 298.007px;
+		height: 298.007px;
+		left: -20.141px;
+		top: -14.003px;
+		overflow: visible;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: page;
+		--web-action-target: Web_1920___1.html;
+		cursor: pointer;
+	}
+	#Rectangle_1 {
+		opacity: 0.22;
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_1 {
+		position: absolute;
+		overflow: visible;
+		width: 772px;
+		height: 48px;
+		left: 416px;
+		top: 87px;
+	}
+	#Search {
+		opacity: 0.57;
+		left: 763px;
+		top: 91px;
+		position: absolute;
+		overflow: visible;
+		width: 144px;
+		height: 40px;
+		text-align: left;
+		font-family: Rockwell;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(252,252,252,1);
+	}
+	#Collection {
+		left: 1275px;
+		top: 87px;
+		position: absolute;
+		overflow: visible;
+		width: 155px;
+		height: 40px;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: page;
+		--web-action-target: Web_1920___1.html;
+		cursor: pointer;
+		text-align: left;
+		font-family: Rockwell;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(252,252,252,1);
+	}
+	#Line_1 {
+		fill: transparent;
+		stroke: rgba(255,255,255,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_1 {
+		overflow: visible;
+		position: absolute;
+		width: 152px;
+		height: 1px;
+		left: 1273.5px;
+		top: 129.317px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#About_us {
+		left: 1490px;
+		top: 89px;
+		position: absolute;
+		overflow: visible;
+		width: 142px;
+		height: 40px;
+		text-align: left;
+		font-family: Rockwell;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(252,252,252,1);
+	}
+	#Submit {
+		left: 1704px;
+		top: 89px;
+		position: absolute;
+		overflow: visible;
+		width: 107px;
+		height: 40px;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: page;
+		--web-action-target: Web_1920___2.html;
+		cursor: pointer;
+		text-align: left;
+		font-family: Rockwell;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(252,252,252,1);
+	}
+	#Line_2 {
+		fill: transparent;
+		stroke: rgba(255,255,255,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_2 {
+		overflow: visible;
+		position: absolute;
+		width: 152px;
+		height: 1px;
+		left: 1478.5px;
+		top: 129.317px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Line_3 {
+		fill: transparent;
+		stroke: rgba(255,255,255,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_3 {
+		overflow: visible;
+		position: absolute;
+		width: 152px;
+		height: 1px;
+		left: 1677px;
+		top: 129px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Rectangle_2 {
+		opacity: 0.45;
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_2 {
+		position: absolute;
+		overflow: visible;
+		width: 8px;
+		height: 1070px;
+		left: 232px;
+		top: 0px;
+	}
+	#ABOUT_US {
+		left: 854px;
+		top: 237px;
+		position: absolute;
+		overflow: visible;
+		width: 402px;
+		height: 94px;
+		text-align: left;
+		font-family: Rockwell;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 70px;
+		color: rgba(252,252,252,1);
+	}
+	#Group_2 {
+		position: absolute;
+		width: 1920px;
+		height: 355.452px;
+		left: 0px;
+		top: 1069.548px;
+		overflow: visible;
+	}
+	#Rectangle_3 {
+		opacity: 0.4;
+		fill: rgba(0,0,0,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_3 {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 355px;
+		left: 0px;
+		top: 0.452px;
+	}
+	#art-hand-printing-paint-color-_ {
+		position: absolute;
+		width: 177.459px;
+		height: 177.459px;
+		left: 871.159px;
+		top: 0px;
+		overflow: visible;
+	}
+	#About_us_ {
+		left: 762px;
+		top: 164.452px;
+		position: absolute;
+		overflow: visible;
+		width: 90px;
+		height: 27px;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(252,252,252,1);
+	}
+	#FAQ {
+		left: 938px;
+		top: 164.452px;
+		position: absolute;
+		overflow: visible;
+		width: 45px;
+		height: 27px;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(252,252,252,1);
+	}
+	#Contact_us_ {
+		left: 1071px;
+		top: 164.452px;
+		position: absolute;
+		overflow: visible;
+		width: 104px;
+		height: 27px;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(252,252,252,1);
+	}
+	#Tagong_Sining_All_rights_reser {
+		left: 838px;
+		top: 283.452px;
+		position: absolute;
+		overflow: visible;
+		width: 228px;
+		height: 20px;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(252,252,252,1);
+	}
+	#insta {
+		position: absolute;
+		width: 52px;
+		height: 53px;
+		left: 799px;
+		top: 208.452px;
+		overflow: visible;
+	}
+	#twitter {
+		position: absolute;
+		width: 51px;
+		height: 47px;
+		left: 935px;
+		top: 211.452px;
+		overflow: visible;
+	}
+	#facebook {
+		position: absolute;
+		width: 60px;
+		height: 53px;
+		left: 1063px;
+		top: 211.452px;
+		overflow: visible;
+	}
+	#Rectangle_14 {
+		opacity: 0.4;
+		fill: rgba(0,0,0,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_14 {
+		position: absolute;
+		overflow: visible;
+		width: 1058px;
+		height: 527px;
+		left: 550px;
+		top: 373px;
+	}
+	#Welcome_to_Tagong_Sining_yours {
+		left: 601px;
+		top: 408px;
+		position: absolute;
+		overflow: visible;
+		width: 956px;
+		height: 610px;
+		text-align: left;
+		font-family: Rockwell;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(252,252,252,1);
+	}
+	#magnying {
+		position: absolute;
+		width: 38px;
+		height: 37px;
+		left: 1143px;
+		top: 92px;
+		overflow: visible;
+	}
+	a{
+		color: white;
+		text-decoration: none;
+	}
