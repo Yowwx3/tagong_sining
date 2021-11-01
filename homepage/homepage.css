@@ -1,0 +1,677 @@
+.mediaViewInfo {
+    --web-view-name: Web 1920 – 1;
+    --web-view-id: Web_1920__1;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+:root {
+    --web-view-ids: Web_1920__1;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+#Web_1920__1 {
+    position: absolute;
+    width: 1920px;
+    height: 4241px;
+    background: linear-gradient(151.8deg, rgba(49,49,50,1) 0%, rgba(22,22,24,1) 100%);
+    overflow: hidden;
+    --web-view-name: Web 1920 – 1;
+    --web-view-id: Web_1920__1;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+
+}
+#art-hand-printing-paint-color- {
+    position: absolute;
+    width: 298.007px;
+    height: 298.007px;
+    left: -20.141px;
+    top: -14.003px;
+    overflow: visible;
+}
+#Rectangle_1 {
+    opacity: 0.22;
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_1 {
+    position: absolute;
+    overflow: visible;
+    width: 772px;
+    height: 48px;
+    left: 416px;
+    top: 87px;
+}
+#Search {
+    opacity: 0.57;
+    left: 763px;
+    top: 91px;
+    position: absolute;
+    overflow: visible;
+    width: 144px;
+    height: 40px;
+    text-align: left;
+    font-family: Rockwell;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(252,252,252,1);
+}
+#Collection {
+    left: 1275px;
+    top: 87px;
+    position: absolute;
+    overflow: visible;
+    width: 150px;
+    height: 40px;
+    text-align: left;
+    font-family: Rockwell;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(252,252,252,1);
+}
+#Line_1 {
+    fill: transparent;
+    stroke: rgba(255,255,255,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Line_1 {
+    overflow: visible;
+    position: absolute;
+    width: 152px;
+    height: 1px;
+    left: 1273.5px;
+    top: 129.317px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#About_us {
+    left: 1490px;
+    top: 89px;
+    position: absolute;
+    overflow: visible;
+    width: 125px;
+    height: 40px;
+    cursor: pointer;
+    text-align: left;
+    font-family: Rockwell;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(252,252,252,1);
+}
+#Submit {
+    left: 1704px;
+    top: 89px;
+    position: absolute;
+    overflow: visible;
+    width: 100px;
+    height: 40px;
+    cursor: pointer;
+    text-align: left;
+    font-family: Rockwell;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(252,252,252,1);
+}
+#Line_2 {
+    fill: transparent;
+    stroke: rgba(255,255,255,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Line_2 {
+    overflow: visible;
+    position: absolute;
+    width: 152px;
+    height: 1px;
+    left: 1478.5px;
+    top: 129.317px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Line_3 {
+    fill: transparent;
+    stroke: rgba(255,255,255,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Line_3 {
+    overflow: visible;
+    position: absolute;
+    width: 152px;
+    height: 1px;
+    left: 1677px;
+    top: 129px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_2 {
+    opacity: 0.45;
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_2 {
+    position: absolute;
+    overflow: visible;
+    width: 8px;
+    height: 3886px;
+    left: 232px;
+    top: 0px;
+}
+#n_9368770_113165966839894_1921 {
+    position: absolute;
+    width: 990px;
+    height: 659.5px;
+    left: 325.43px;
+    top: 204px;
+    overflow: visible;
+}
+#SEASIDE {
+    left: 1545px;
+    top: 276px;
+    position: absolute;
+    overflow: visible;
+    width: 172px;
+    height: 53px;
+    text-align: left;
+    font-family: Rockwell;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    color: rgba(252,252,252,1);
+}
+#Being_near_to_the_ocean_is_rel {
+    left: 1363px;
+    top: 370px;
+    position: absolute;
+    overflow: hidden;
+    width: 537px;
+    height: 304px;
+    text-align: left;
+    font-family: Rockwell;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(252,252,252,1);
+}
+#Group_1 {
+    position: absolute;
+    width: 1472.5px;
+    height: 40px;
+    left: 312.5px;
+    top: 970px;
+    overflow: visible;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: page;
+    --web-action-target: Web_1920___4.html;
+    cursor: pointer;
+}
+#Line_8 {
+    fill: transparent;
+    stroke: rgba(255,255,255,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Line_8 {
+    overflow: visible;
+    position: absolute;
+    width: 152px;
+    height: 1px;
+    left: 1177.5px;
+    top: 40px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Line_7 {
+    fill: transparent;
+    stroke: rgba(255,255,255,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Line_7 {
+    overflow: visible;
+    position: absolute;
+    width: 152px;
+    height: 1px;
+    left: 896.5px;
+    top: 40px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Paintings {
+    left: 11.5px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 282px;
+    height: 40px;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: page;
+    --web-action-target: Web_1920___8.html;
+    cursor: pointer;
+    text-align: left;
+    font-family: Rockwell;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(252,252,252,1);
+}
+#Photography {
+    left: 292.5px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 282px;
+    height: 40px;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: page;
+    --web-action-target: Web_1920___9.html;
+    cursor: pointer;
+    text-align: left;
+    font-family: Rockwell;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(252,252,252,1);
+}
+#Digital_Arts {
+    left: 601.5px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 282px;
+    height: 40px;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: page;
+    --web-action-target: Web_1920___10.html;
+    cursor: pointer;
+    text-align: left;
+    font-family: Rockwell;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(252,252,252,1);
+}
+#Calligraphy {
+    left: 896.5px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 282px;
+    height: 40px;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: page;
+    --web-action-target: Web_1920___11.html;
+    cursor: pointer;
+    text-align: left;
+    font-family: Rockwell;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(252,252,252,1);
+}
+#Drawings {
+    left: 1191.5px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 282px;
+    height: 40px;
+    text-align: left;
+    font-family: Rockwell;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(252,252,252,1);
+}
+#Line_4 {
+    fill: transparent;
+    stroke: rgba(255,255,255,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Line_4 {
+    overflow: visible;
+    position: absolute;
+    width: 152px;
+    height: 1px;
+    left: 0px;
+    top: 40px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Line_5 {
+    fill: transparent;
+    stroke: rgba(255,255,255,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Line_5 {
+    overflow: visible;
+    position: absolute;
+    width: 193px;
+    height: 1px;
+    left: 283.5px;
+    top: 40px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Line_6 {
+    fill: transparent;
+    stroke: rgba(255,255,255,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Line_6 {
+    overflow: visible;
+    position: absolute;
+    width: 152px;
+    height: 1px;
+    left: 601.5px;
+    top: 40px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Featured {
+    left: 313px;
+    top: 1180px;
+    position: absolute;
+    overflow: visible;
+    width: 221px;
+    height: 60px;
+    text-align: left;
+    font-family: Rockwell;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 45px;
+    color: rgba(252,252,252,1);
+}
+#n_46143814_4478344992258698_45 {
+    position: absolute;
+    width: 371px;
+    height: 494px;
+    left: 380px;
+    top: 1285px;
+    overflow: visible;
+}
+#n_46731134_6297015880340095_12 {
+    position: absolute;
+    width: 371px;
+    height: 495px;
+    left: 903px;
+    top: 1284px;
+    overflow: visible;
+}
+#n_46412339_580588329818436_567 {
+    position: absolute;
+    width: 371px;
+    height: 495px;
+    left: 1426px;
+    top: 1284px;
+    overflow: visible;
+}
+#n_9479275_113713600118464_3875 {
+    position: absolute;
+    width: 680px;
+    height: 384px;
+    left: 297px;
+    top: 2136px;
+    overflow: visible;
+}
+#n_9178253_155471792609311_6416 {
+    position: absolute;
+    width: 575px;
+    height: 431px;
+    left: 1134px;
+    top: 2607px;
+    overflow: visible;
+}
+#photo_2021-09-01_01-08-31 {
+    position: absolute;
+    width: 360px;
+    height: 640px;
+    left: 1113px;
+    top: 3107px;
+    overflow: visible;
+}
+#photo_2021-09-08_18-28-06 {
+    position: absolute;
+    width: 360px;
+    height: 640px;
+    left: 705px;
+    top: 3107px;
+    overflow: visible;
+}
+#photo_2021-09-08_18-28-06_2 {
+    position: absolute;
+    width: 360px;
+    height: 640px;
+    left: 297px;
+    top: 3107px;
+    overflow: visible;
+}
+#photo_2021-09-08_17-13-16 {
+    position: absolute;
+    width: 360px;
+    height: 640px;
+    left: 1521px;
+    top: 3107px;
+    overflow: visible;
+}
+#photo_2021-09-01_01-08-36 {
+    position: absolute;
+    width: 713px;
+    height: 401px;
+    left: 1065px;
+    top: 2136px;
+    overflow: visible;
+}
+#n_8719761_113367886819702_4332 {
+    position: absolute;
+    width: 768px;
+    height: 432px;
+    left: 297px;
+    top: 2606px;
+    overflow: visible;
+}
+#Collection_ {
+    left: 910px;
+    top: 1979px;
+    position: absolute;
+    overflow: visible;
+    width: 356px;
+    height: 94px;
+    text-align: left;
+    font-family: Rockwell;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 70px;
+    color: rgba(252,252,252,1);
+}
+#Line_9 {
+    fill: transparent;
+    stroke: rgba(255,255,255,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Line_9 {
+    overflow: visible;
+    position: absolute;
+    width: 343px;
+    height: 1px;
+    left: 888px;
+    top: 2069px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Group_2 {
+    position: absolute;
+    width: 1920px;
+    height: 355.452px;
+    left: 0px;
+    top: 3885.548px;
+    overflow: visible;
+}
+#Rectangle_3 {
+    opacity: 0.4;
+    fill: rgba(0,0,0,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_3 {
+    position: absolute;
+    overflow: visible;
+    width: 1920px;
+    height: 355px;
+    left: 0px;
+    top: 0.452px;
+}
+#art-hand-printing-paint-color-_bs {
+    position: absolute;
+    width: 177.459px;
+    height: 177.459px;
+    left: 871.159px;
+    top: 0px;
+    overflow: visible;
+}
+#About_us_ {
+    left: 762px;
+    top: 164.452px;
+    position: absolute;
+    overflow: visible;
+    width: 90px;
+    height: 27px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(252,252,252,1);
+}
+#FAQ {
+    left: 938px;
+    top: 164.452px;
+    position: absolute;
+    overflow: visible;
+    width: 45px;
+    height: 27px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(252,252,252,1);
+}
+#Contact_us_ {
+    left: 1071px;
+    top: 164.452px;
+    position: absolute;
+    overflow: visible;
+    width: 104px;
+    height: 27px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(252,252,252,1);
+}
+#Tagong_Sining_All_rights_reser {
+    left: 838px;
+    top: 283.452px;
+    position: absolute;
+    overflow: visible;
+    width: 228px;
+    height: 20px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(252,252,252,1);
+}
+#twitter {
+    position: absolute;
+    width: 51px;
+    height: 47px;
+    left: 935px;
+    top: 208.452px;
+    overflow: visible;
+}
+#facebook {
+    position: absolute;
+    width: 60px;
+    height: 53px;
+    left: 1049px;
+    top: 208.452px;
+    overflow: visible;
+}
+#magnying {
+    position: absolute;
+    width: 38px;
+    height: 37px;
+    left: 1142px;
+    top: 92px;
+    overflow: visible;
+}
+#insta {
+    position: absolute;
+    width: 52px;
+    height: 53px;
+    left: 799px;
+    top: 4091px;
+    overflow: visible;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
