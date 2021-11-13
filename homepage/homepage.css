@@ -675,3 +675,24 @@ a{
     color: white;
     text-decoration: none;
 }
+
+#Collection ul{
+    display: none;
+    position: absolute;
+    z-index: 1;
+    padding: 10px;
+    top: 40px;
+    left:-15px;
+    background-color: #313132;
+    list-style-type: none;
+}
+#Collection:hover ul{
+    display: block;
+
+}
+#Collection ul li{
+    width:200px;
+    padding: 10px;}
+
+#Collection ul li a:hover{
+    padding: 5px;}    
